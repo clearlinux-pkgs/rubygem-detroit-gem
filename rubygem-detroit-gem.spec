@@ -4,7 +4,7 @@
 #
 Name     : rubygem-detroit-gem
 Version  : 0.4.0
-Release  : 2
+Release  : 3
 URL      : https://rubygems.org/downloads/detroit-gem-0.4.0.gem
 Source0  : https://rubygems.org/downloads/detroit-gem-0.4.0.gem
 Summary  : No detailed summary available
