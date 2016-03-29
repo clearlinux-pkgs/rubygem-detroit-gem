@@ -4,7 +4,7 @@
 #
 Name     : rubygem-detroit-gem
 Version  : 0.4.0
-Release  : 3
+Release  : 4
 URL      : https://rubygems.org/downloads/detroit-gem-0.4.0.gem
 Source0  : https://rubygems.org/downloads/detroit-gem-0.4.0.gem
 Summary  : No detailed summary available
@@ -51,40 +51,12 @@ fi
 
 %files
 %defattr(-,root,root,-)
-/usr/lib64/ruby/gems/2.2.0/cache/detroit-gem-0.4.0.gem
-/usr/lib64/ruby/gems/2.2.0/doc/detroit-gem-0.4.0/ri/Detroit/Gem/assemble%3f-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/detroit-gem-0.4.0/ri/Detroit/Gem/autospec-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/detroit-gem-0.4.0/ri/Detroit/Gem/build-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/detroit-gem-0.4.0/ri/Detroit/Gem/cdesc-Gem.ri
-/usr/lib64/ruby/gems/2.2.0/doc/detroit-gem-0.4.0/ri/Detroit/Gem/create_gemspec-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/detroit-gem-0.4.0/ri/Detroit/Gem/gemspec-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/detroit-gem-0.4.0/ri/Detroit/Gem/initialize_defaults-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/detroit-gem-0.4.0/ri/Detroit/Gem/install%3f-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/detroit-gem-0.4.0/ri/Detroit/Gem/install-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/detroit-gem-0.4.0/ri/Detroit/Gem/load_gemspec-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/detroit-gem-0.4.0/ri/Detroit/Gem/lookup_gemspec-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/detroit-gem-0.4.0/ri/Detroit/Gem/package-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/detroit-gem-0.4.0/ri/Detroit/Gem/package_files-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/detroit-gem-0.4.0/ri/Detroit/Gem/pkgdir-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/detroit-gem-0.4.0/ri/Detroit/Gem/prepackage-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/detroit-gem-0.4.0/ri/Detroit/Gem/prerequisite-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/detroit-gem-0.4.0/ri/Detroit/Gem/purge-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/detroit-gem-0.4.0/ri/Detroit/Gem/push-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/detroit-gem-0.4.0/ri/Detroit/Gem/release-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/detroit-gem-0.4.0/ri/Detroit/Gem/reset-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/detroit-gem-0.4.0/ri/Detroit/Gem/spec-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/detroit-gem-0.4.0/ri/Detroit/Gem/version-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/detroit-gem-0.4.0/ri/Detroit/Gem/yaml%3f-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/detroit-gem-0.4.0/ri/Detroit/cdesc-Detroit.ri
-/usr/lib64/ruby/gems/2.2.0/doc/detroit-gem-0.4.0/ri/cache.ri
-/usr/lib64/ruby/gems/2.2.0/doc/detroit-gem-0.4.0/ri/page-LICENSE_txt.ri
-/usr/lib64/ruby/gems/2.2.0/doc/detroit-gem-0.4.0/ri/page-NOTICE_txt.ri
-/usr/lib64/ruby/gems/2.2.0/doc/detroit-gem-0.4.0/ri/page-README_md.ri
-/usr/lib64/ruby/gems/2.2.0/gems/detroit-gem-0.4.0/LICENSE.txt
-/usr/lib64/ruby/gems/2.2.0/gems/detroit-gem-0.4.0/NOTICE.txt
-/usr/lib64/ruby/gems/2.2.0/gems/detroit-gem-0.4.0/README.md
-/usr/lib64/ruby/gems/2.2.0/gems/detroit-gem-0.4.0/lib/detroit-gem.rb
-/usr/lib64/ruby/gems/2.2.0/gems/detroit-gem-0.4.0/man/detroit-gem.5
-/usr/lib64/ruby/gems/2.2.0/gems/detroit-gem-0.4.0/man/detroit-gem.5.html
-/usr/lib64/ruby/gems/2.2.0/gems/detroit-gem-0.4.0/man/detroit-gem.5.ronn
-/usr/lib64/ruby/gems/2.2.0/specifications/detroit-gem-0.4.0.gemspec
+/usr/lib64/ruby/gems/2.3.0/cache/detroit-gem-0.4.0.gem
+/usr/lib64/ruby/gems/2.3.0/gems/detroit-gem-0.4.0/LICENSE.txt
+/usr/lib64/ruby/gems/2.3.0/gems/detroit-gem-0.4.0/NOTICE.txt
+/usr/lib64/ruby/gems/2.3.0/gems/detroit-gem-0.4.0/README.md
+/usr/lib64/ruby/gems/2.3.0/gems/detroit-gem-0.4.0/lib/detroit-gem.rb
+/usr/lib64/ruby/gems/2.3.0/gems/detroit-gem-0.4.0/man/detroit-gem.5
+/usr/lib64/ruby/gems/2.3.0/gems/detroit-gem-0.4.0/man/detroit-gem.5.html
+/usr/lib64/ruby/gems/2.3.0/gems/detroit-gem-0.4.0/man/detroit-gem.5.ronn
+/usr/lib64/ruby/gems/2.3.0/specifications/detroit-gem-0.4.0.gemspec
